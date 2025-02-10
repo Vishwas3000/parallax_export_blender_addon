@@ -17,7 +17,7 @@ import os
 
 bl_info = {
     "name": "Export Parallax",
-    "author": "Your Name",
+    "author": "Vishwas Prakash",
     "version": (1, 0),
     "blender": (3, 0, 0),
     "location": "View3D > Object > Export Parallax",
